@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KartikMishra1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development and app development with ai 
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on websites and android apps
 - 📫 How to reach me mail me at kmrrj186@gmail.com or ping me at +91 7011992534
 - 😄 Pronouns: He/ Him
